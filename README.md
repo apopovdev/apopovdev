@@ -17,4 +17,4 @@ Eight years in one product company: four as a UI/UX designer and four as a produ
 
 - Portfolio and contact: [apopov.dev](https://apopov.dev/en/)
 - All my apps on the [App Store](https://apps.apple.com/developer/artur-popov/id1714968258)
-- Design work on [Behance](https://www.behance.net/popovartur)
+- Design work on [Behance](https://www.behance.net/apopov-dev)
